@@ -1,10 +1,13 @@
 # UniMusic
 Hey there!
 
+<div style="float:right">
 
-<img src="https://user-images.githubusercontent.com/53833059/71555970-343b1f80-2a58-11ea-8593-052353edf483.jpg" width="350" title="movies tab">
+<img src="https://user-images.githubusercontent.com/53833059/71555970-343b1f80-2a58-11ea-8593-052353edf483.jpg" width="350" hspace=20 title="tab 1">
 
-<img src="https://user-images.githubusercontent.com/53833059/71555969-343b1f80-2a58-11ea-99cb-88fe48ccd7ed.jpg" width="350" title="movies tab">
+<img src="https://user-images.githubusercontent.com/53833059/71555969-343b1f80-2a58-11ea-99cb-88fe48ccd7ed.jpg" width="350" title="tab 2">
+
+</div>
                                          
                                          
 
